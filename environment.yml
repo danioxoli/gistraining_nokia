@@ -9,3 +9,4 @@ dependencies:
   - rasterio
   - geopy
   - seaborn
+  - contextily
